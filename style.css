@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: orchid;
+}
+
+table {
+    width: 50%;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 4px;
+    text-align: center;
+}
+
+form {
+    margin-top: 30px;
+}
